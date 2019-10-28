@@ -1,4 +1,8 @@
-# DS5500-Homework-1
-Solutions for Homework 1 for DS 5500 - Information Visualization: Applications in Data Science
+# DS5500 Homeworks
 
-The link with working interactive visaulizations can be viewed with [Google Colab!! Click this](https://colab.research.google.com/github/prathwishshetty/DS5500-Homework-1/blob/master/ds5500_hw1.ipynb)
+List of homeworks with their interactive colab links:
+
+| Homeworks      | Google Colab Link |
+| ----------- | ----------- |
+| Homework 1      |  [HW 1](https://colab.research.google.com/github/prathwishshetty/DS5500-Homework-1/blob/master/ds5500_hw1.ipynb)       |
+| Homework 2  | [HW_2](https://colab.research.google.com/github/prathwishshetty/DS5500-Homework-1/blob/master/DS5500_Homework_2.ipynb)       |
